@@ -1,3 +1,5 @@
+[![.NET](https://github.com/alierguc/.NetCore-Odata-Api/actions/workflows/CICD.yml/badge.svg)](https://github.com/alierguc/.NetCore-Odata-Api/actions/workflows/CICD.yml)
+
 # OdataAPI
 OData Api .NET Core 3.1 + Entity Framework
 
